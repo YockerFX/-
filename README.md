@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
- <b>Tools and Technologie</b>
+ <b>Tools and Technologies</b>
  <br>
  <br>
  
